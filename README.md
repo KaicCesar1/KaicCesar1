@@ -21,3 +21,5 @@
 ![firebase](https://github.com/user-attachments/assets/4815acb1-c891-44d0-a8c6-a2c86ab12105)
 
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaicCesar1&layout=compact)

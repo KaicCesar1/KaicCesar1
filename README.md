@@ -8,7 +8,6 @@
 ### 🧑🏻‍💻 Professional interests:
 🌐 Specializing in web development. <br/>
 🛠️ Focused on creating and improving web applications that solve everyday problems.<br/> 
-📱 And in my spare time, learning about iOS development - Swift, SwiftUI, UIKit, Combine.<br/> 
 👾 Gaining knowledge in Data Structures, Algorithms, UX/UI and Hardware.<br/>
 
 ### ⚡️ My technologies:
